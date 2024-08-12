@@ -1,4 +1,4 @@
-<img src="\Files\BCG X logo.png" width=400 alt="BCG logo"/>
+<img src="\Files\BCG X logo.png" width=500 alt="BCG logo"/>
 <h1>GenAI Virtual Internship</h1>
 <h2>Introduction</h2>
 
@@ -24,13 +24,13 @@ Build an efficient, accurate, user-friendly yet scalable chatbot that allows the
  - Locate where the Python file (BCG X Chatbot.py) is saved, and ensure you have the libraries `pandas` and `yfinance` installed.
 
 - Run BCG X Chatbot.py, and you should see:
-<img src="\Files\level 0.png" width=400 alt="BCG X chatbot startup"/>
+<img src="\Files\level 0.png" width=500 alt="BCG X chatbot startup"/>
 
 - Read the on-screen instructions, and enter one of the ticker symbols - MSFT, TSLA, or AAPL
-<img src="\Files\level 1.png" width=400 alt="BCG X chatbot"/>
+<img src="\Files\level 1.png" width=500 alt="BCG X chatbot"/>
 
 - Enter a year: 2021, 2022 or 2023
-<img src="\Files\level 2.png" width=400 alt="BCG X chatbot startup"/>
+<img src="\Files\level 2.png" width=500 alt="BCG X chatbot startup"/>
 
 - The chatbot was built with the following predefined queries listed below:
 1. What is the total revenue?
@@ -44,10 +44,10 @@ Build an efficient, accurate, user-friendly yet scalable chatbot that allows the
 9. How have liabilities changed?
 10. How has cash flow from operating activities changed?
 
-<img src="\Files\level 3.png" width=400 alt="BCG X chatbot startup"/>
+<img src="\Files\level 3.png" width=500 alt="BCG X chatbot startup"/>
 
 - To stop the chatbot from running, enter: exit
-<img src="\Files\level 4.png" width=400 alt="BCG X chatbot startup"/>
+<img src="\Files\level 4.png" width=500 alt="BCG X chatbot startup"/>
 
 <h2>Recommendations & Next Steps</h2>
 
